@@ -1,0 +1,5 @@
+<?php
+$OESiteUploadDirectory = "Upload";
+$OEConfWETextBox = '{"WE005849e327":{"Title":{"Items":{"DEFAULT":"Name :"}}},"WEf18f497c6a":{"Title":{"Items":{"DEFAULT":"Email :"}}}}';
+$OEConfWETextArea = '{"WE5df22e7a7c":{"Title":{"Items":{"DEFAULT":""}}}}';
+$OEConfWESendMail = '{"WEc16d8e9242":{"ScriptVersion":29,"ConfSendMail":{"IsUpdated":true,"Type":3,"TypeStr":"SMTP","SpecialType":"","SMTPHost":null,"SMTPPort":25,"SMTPUser":null,"SMTPPassWrd":null,"SMTPSSL":false},"FormLinks":{"ElementsID":{"WE005849e327":"WETextBox","WE85db09ebb4":"WETextBox","WE04fca572ab":"WETextBox","WE5df22e7a7c":"WETextArea"},"ButtonSubmitID":"WE0a8173d17c","ButtonCancelID":null},"SendMailInfo":{"AdminEmail":{"Items":{"DEFAULT":""}},"CopycacheEmail":{"Items":{"DEFAULT":""}},"CopyEmail":{"Items":{"DEFAULT":""}},"ReturnEmail":"","ReturnEmailID":null,"Subject":"","SendReceipt":false,"ReceiptHeader":{"Items":{"DEFAULT":""}},"ReceiptBody":{"Items":{"DEFAULT":""}},"SendReceiptSignature":false,"ReceiptSignature":{"Target":null,"Links":{"Items":{"DEFAULT":""}}},"UserEmailID":null,"ListInputTitle":{}}}}';
